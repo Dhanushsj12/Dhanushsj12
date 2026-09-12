@@ -10,3 +10,18 @@
 <img width="49%" src="https://github-readme-stats-green-one-75.vercel.app/api?username=Dhanushsj12&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0369A1&icon_color=1E3A8A&text_color=0A0A0A&bg_color=FFFFFF&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats-green-one-75.vercel.app/api/top-langs/?username=Dhanushsj12&layout=compact&langs_count=8&hide_border=true&title_color=0369A1&text_color=0A0A0A&bg_color=FFFFFF&card_width=500" alt="top langs" />
 </div>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/dhanush-s-j-034147271">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:dhanushsj2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=FBBF24&labelColor=1E3A8A" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://dhanushsjportfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=0A0A0A&labelColor=38BDF8" alt="Portfolio" />
+</a>
+
+</div>
