@@ -10,6 +10,7 @@
 <img width="49%" src="https://github-readme-stats-green-one-75.vercel.app/api?username=Dhanushsj12&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0369A1&icon_color=1E3A8A&text_color=0A0A0A&bg_color=FFFFFF&card_width=500" alt="stats" />
 <img width="49%" src="https://github-readme-stats-green-one-75.vercel.app/api/top-langs/?username=Dhanushsj12&layout=compact&langs_count=8&hide_border=true&title_color=0369A1&text_color=0A0A0A&bg_color=FFFFFF&card_width=500" alt="top langs" />
 </div>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dhanush-s-j-034147271">
@@ -25,10 +26,11 @@
 </a>
 
 </div>
+
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/output/github-snake.svg">
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/output/github-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/output/github-snake-dark.svg?v=2">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/output/github-snake.svg?v=2">
+<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/output/github-snake.svg?v=2">
 </picture>
 </div>
