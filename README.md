@@ -1,7 +1,7 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp">
-<img alt="Dhanush S J" src="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp.PNG">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp.PNG">
+<img alt="Dhanush S J" src="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp.PNG">
 </picture>
 
 <div align="center">
@@ -79,7 +79,17 @@ Software Engineering student building AI, cloud, and full-stack applications, wi
 ## GitHub Activity
 
 <div align="center">
-<img width="60%" src="https://streak-stats.demolab.com/?user=Dhanushsj12&hide_border=true&background=FFFFFF&stroke=1E3A8A&ring=38BDF8&fire=FBBF24&currStreakLabel=0369A1&sideLabels=64748B&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=64748B&titleColor=0369A1" alt="commit streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanushsj12&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Dhanush's GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushsj12&layout=compact&hide_border=true&langs_count=8" alt="Dhanush's Top Languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushsj12&hide_border=true" alt="Dhanush's GitHub Contribution Graph" />
+
 </div>
 
 <br>
