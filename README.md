@@ -1,7 +1,7 @@
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dark.svg?v=3">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/light.svg?v=3">
-<img alt="Dhanush S J" src="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/light.svg?v=3">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp">
+<img alt="Dhanush S J" src="https://raw.githubusercontent.com/Dhanushsj12/Dhanushsj12/main/dp">
 </picture>
 
 <div align="center">
@@ -16,10 +16,10 @@
 
 Software Engineering student building AI, cloud, and full-stack applications, with a strong foundation in programming, data structures, and object-oriented design.
 
-- 🤖 Exploring Generative AI, RAG, and agentic workflows with LangGraph
-- 🧠 Comfortable across the stack — from Flask/Node APIs to React frontends
-- ☁️ Working with Azure, MongoDB, MySQL, and Firebase for cloud & data
-- 🌱 Currently pursuing M.Tech Integrated Software Engineering at VIT
+* 🤖 Exploring Generative AI, RAG, and agentic workflows with LangGraph
+* 🧠 Comfortable across the stack — from Flask/Node APIs to React frontends
+* ☁️ Working with Azure, MongoDB, MySQL, and Firebase for cloud & data
+* 🌱 Currently pursuing M.Tech Integrated Software Engineering at VIT
 
 <br>
 
@@ -30,12 +30,13 @@ Software Engineering student building AI, cloud, and full-stack applications, wi
 <td width="100%" valign="top">
 
 ### Independent Software Projects — Self-Directed Development
+
 📍 2024 – Present
 
-- Managed version control and CI/CD workflows across 5+ projects using Git, GitHub, and GitHub Actions
-- Built RESTful APIs and responsive web interfaces using Flask, Node.js, and React.js
-- Debugged and optimized backend logic to improve application performance and response times
-- Applied backend performance techniques including Redis caching and asynchronous request handling
+* Managed version control and CI/CD workflows across 5+ projects using Git, GitHub, and GitHub Actions
+* Built RESTful APIs and responsive web interfaces using Flask, Node.js, and React.js
+* Debugged and optimized backend logic to improve application performance and response times
+* Applied backend performance techniques including Redis caching and asynchronous request handling
 
 </td>
 </tr>
@@ -69,9 +70,9 @@ Software Engineering student building AI, cloud, and full-stack applications, wi
 
 ## Achievements
 
-- 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft
-- 🏅 **Generative AI Essentials: Using LLMs to Work with Data** — IBM SkillsBuild
-- 🏅 **AI Fundamentals: Foundations for Understanding AI** — IBM SkillsBuild
+* 🏅 **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft
+* 🏅 **Generative AI Essentials: Using LLMs to Work with Data** — IBM SkillsBuild
+* 🏅 **AI Fundamentals: Foundations for Understanding AI** — IBM SkillsBuild
 
 <br>
 
