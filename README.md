@@ -78,7 +78,13 @@ Software Engineering student building AI, cloud, and full-stack applications, wi
 ## GitHub Activity
 
 <div align="center">
-<img width="60%" src="https://streak-stats.demolab.com/?user=Dhanushsj12&hide_border=true&background=FFFFFF&stroke=1E3A8A&ring=38BDF8&fire=FBBF24&currStreakLabel=0369A1&sideLabels=64748B&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=64748B&titleColor=0369A1" alt="commit streak" />
+
+<img
+  width="60%"
+  src="https://streak-stats.demolab.com/?user=Dhanushsj12&hide_border=true&background=FFFFFF&stroke=1E3A8A&ring=38BDF8&fire=FBBF24&currStreakLabel=0369A1&sideLabels=64748B&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=64748B&titleColor=0369A1&cache_seconds=86400"
+  alt="GitHub commit streak"
+/>
+
 </div>
 
 <br>
